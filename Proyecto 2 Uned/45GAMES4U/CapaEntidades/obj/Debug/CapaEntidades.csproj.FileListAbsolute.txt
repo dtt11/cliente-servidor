@@ -1,0 +1,6 @@
+C:\Users\danie\Desktop\Proyecto 2 Uned\45GAMES4U\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\danie\Desktop\Proyecto 2 Uned\45GAMES4U\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\danie\Desktop\Proyecto 2 Uned\45GAMES4U\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\Proyecto 2 Uned\45GAMES4U\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Proyecto 2 Uned\45GAMES4U\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\danie\Desktop\Proyecto 2 Uned\45GAMES4U\CapaEntidades\obj\Debug\CapaEntidades.pdb

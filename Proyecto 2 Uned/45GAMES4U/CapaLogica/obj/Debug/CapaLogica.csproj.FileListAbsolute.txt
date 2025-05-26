@@ -1,0 +1,13 @@
+C:\Users\danie\Desktop\Proyecto 2 Uned\45GAMES4U\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\danie\Desktop\Proyecto 2 Uned\45GAMES4U\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\danie\Desktop\Proyecto 2 Uned\45GAMES4U\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\danie\Desktop\Proyecto 2 Uned\45GAMES4U\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\danie\Desktop\Proyecto 2 Uned\45GAMES4U\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\Proyecto 2 Uned\45GAMES4U\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Proyecto 2 Uned\45GAMES4U\CapaLogica\obj\Debug\CapaLogica.csproj.Up2Date
+C:\Users\danie\Desktop\Proyecto 2 Uned\45GAMES4U\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\danie\Desktop\Proyecto 2 Uned\45GAMES4U\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\danie\Desktop\Proyecto 2 Uned\45GAMES4U\CapaLogica\bin\Debug\CapaEntidades.dll
+C:\Users\danie\Desktop\Proyecto 2 Uned\45GAMES4U\CapaLogica\bin\Debug\CapaEntidades.pdb
+C:\Users\danie\Desktop\Proyecto 2 Uned\45GAMES4U\CapaLogica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\danie\Desktop\Proyecto 2 Uned\45GAMES4U\CapaLogica\bin\Debug\Newtonsoft.Json.xml

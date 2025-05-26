@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "CapaGrafica\\CapaGraficaCliente.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "CapaGraficaServidor\\CapaGraficaServidor.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

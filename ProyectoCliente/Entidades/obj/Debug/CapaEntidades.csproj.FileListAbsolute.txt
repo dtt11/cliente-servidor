@@ -1,0 +1,6 @@
+C:\Users\danie\Desktop\ProyectoCliente\Entidades\bin\Debug\Entidades.dll
+C:\Users\danie\Desktop\ProyectoCliente\Entidades\bin\Debug\Entidades.pdb
+C:\Users\danie\Desktop\ProyectoCliente\Entidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\ProyectoCliente\Entidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\ProyectoCliente\Entidades\obj\Debug\Entidades.dll
+C:\Users\danie\Desktop\ProyectoCliente\Entidades\obj\Debug\Entidades.pdb
