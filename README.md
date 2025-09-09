@@ -1,6 +1,7 @@
 ## 🎮 Aplicación Cliente/Servidor - Sistema de Inventario
 
 📌 Descripción
+
 Este proyecto implementa una aplicación Cliente/Servidor para la empresa ficticia 45GAMES4U, que permite la gestión de inventario de videojuegos y la reserva de títulos por parte de clientes.
 El sistema se desarrolla bajo una arquitectura en capas utilizando C# .NET 8.0, Windows Forms, Sockets TCP y una base de datos SQL Server.
 
