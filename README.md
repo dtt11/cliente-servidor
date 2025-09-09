@@ -8,8 +8,9 @@ El sistema se desarrolla bajo una arquitectura en capas utilizando C# .NET 8.0, 
 ## 🚀 Funcionalidades
 
 - Crear, leer, actualizar y eliminar productos
-- Comunicación cliente-servidor (Sockets TCP o [ADO.NET](http://ado.net/))
-- Validación de datos en formularios
+- Comunicación cliente-servidor (Sockets TCP)
+- Validación de Datos y Manejo de Excepciones en formularios
+- Reservas de Videojuegos
 - Arquitectura en capas
 - Conexión con base de datos SQL Server
 
