@@ -79,5 +79,4 @@ ReservaEntidad
 
 
 🧑‍💻 Autor
-
-Daniel Tapia Traña
+Daniel Tapia Traña – Diplomado en informática
